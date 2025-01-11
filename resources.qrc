@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/empresa.png</file>
+    <file>icons/vigilante.png</file>
+    <file>icons/autorizadopor.png</file>
+    <file>icons/cracha.png</file>
+    <file>icons/departamento.png</file>
+    <file>icons/documento.png</file>
+    <file>icons/fornecedor.png</file>
+    <file>icons/logar.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/nome.png</file>
+    <file>icons/placa.png</file>
+    <file>icons/prefixo.png</file>
+  </qresource>
+</RCC>
